@@ -1,6 +1,3 @@
-Here’s a more natural, humanised version of your description without emojis:
-
----
 
 **Tic-Tac-Toe**
 
